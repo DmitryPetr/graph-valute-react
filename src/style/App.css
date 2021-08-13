@@ -1,0 +1,16 @@
+.App {
+  margin: 15px;
+  text-align: left;
+}
+
+.AppFilterCheckbox{
+  margin-top: 10px;
+  height: 55vh;
+  width: 300px;
+  border: 2px solid black;
+  overflow: scroll;
+}
+
+.AppGraph{
+  margin-left: 10px;
+}
